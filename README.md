@@ -1,4 +1,6 @@
-## Objectives
+## The Work Experience and Education Sections of Your Resume
+
+
 
 1. Objective 1
 2. Objective 2
