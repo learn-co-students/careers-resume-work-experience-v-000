@@ -16,9 +16,6 @@ For each specific company, you should include:
   - Results and achievements
   - Metrics or numbers
 
-
-
-
 **IMPORTANT NOTE:** Every resume bullet should start with an action verb ([here is a helpful resource](http://ocs.yale.edu/sites/default/files/Resume_Action_Verbs.pdf)). If it’s a position in the past, that verb needs to be in the SIMPLE PAST TENSE. If you’re still employed at that company, verbs should be in the SIMPLE PRESENT TENSE.  
 
 - When outlining your responsibilities and achievements, consistency in formatting, tenses and appropriate grammar are important.  All resumes should be in 3rd person.  No “I”, “me”, “my” or your name.
@@ -90,5 +87,27 @@ You should include
 
 * Results, achievements, quantitative data, and metrics show what you accomplished and provide them reassurance that you could do this and more at their company. 
 
+
+## Assignment- Resume
+
+Now is the time to put everything you've learned about in this unit into your resume. Remember the [resume template](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p) you made a copy of earlier? 
+
+By now, you should at the very least, have your technical experience in there. Fill out the remaining Employment History and Education sections, using the tips presented in this lesson. 
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Resume”
+
+In the body of your email again include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to Google document of your resume
+
+Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include the Google Doc url of your resume as well. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Careers Resume Work Experience </a> on Learn.co and start learning to code for free.</p>
