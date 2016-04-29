@@ -1,6 +1,6 @@
 # Work History and Education Experience
 
-We'll cover what should and shouldn't go into the work and education sections of your resume. And if you're new to the field, you'll learn how to weave other relevant experienec into your resume to the job market or breaking into a new field. 
+We'll cover what should and shouldn't go into the work and education sections of your resume. And if you're new to the field, you'll learn how to weave other relevant experience into your resume to the job market or breaking into a new field. 
 
 ## What to Include
 
@@ -111,3 +111,5 @@ In the body of your email again include:
 Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include the Google Doc url of your resume as well. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Careers Resume Work Experience </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Work and Education Experience</a> on Learn.co and start learning to code for free.</p>
