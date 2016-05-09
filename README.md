@@ -94,7 +94,9 @@ Now is the time to put everything you've learned about in this unit into your re
 
 By now, you should at the very least, have your technical experience in there. Fill out the remaining Employment History and Education sections, using the tips presented in this lesson. 
 
-**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+
+Remember in the subject line to include your name and this specific assignment.
 
 In this case, your email subject line will be “”Your Name” + Resume”
 
