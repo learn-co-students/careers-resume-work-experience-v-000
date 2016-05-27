@@ -88,30 +88,10 @@ You should include
 * Results, achievements, quantitative data, and metrics show what you accomplished and provide them reassurance that you could do this and more at their company. 
 
 
-## Assignment- Resume
+## Next Steps
 
-Now is the time to put everything you've learned about in this unit into your resume. Remember the [resume template](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p) you made a copy of earlier? 
+Now is the time to start putting the peices together. Remember the [resume template](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p) you made a copy of earlier? Take a stab at your first draft. Complete the technical, work, and education experience sections to the best of your ability.
 
-By now, you should at the very least, have your technical experience in there. Fill out the remaining Employment History and Education sections, using the tips presented in this lesson. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Resume”
-
-In the body of your email again include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to Google document of your resume
-
-Update your Careers Prep Tracker sheet with the date submitted, and for this particular assignment, also in the noted cell, include the Google Doc url of your resume as well. 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Careers Resume Work Experience </a> on Learn.co and start learning to code for free.</p>
+In a future meeting with your coach, you will spend time reviewing your resume line-by-line to ensure it represents you in the best possible light and demonstrates the value you've added to your past experiences. You'll be assigned a coach once you're through ~75% of the full stack web track. If you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to the technical curriculum.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Work and Education Experience</a> on Learn.co and start learning to code for free.</p>
