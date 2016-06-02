@@ -39,6 +39,7 @@ If you’re fresh out of college and new to the workforce, you might think that 
 If you have a lot of experience, that’s great, but remember to emphasize the things that will get you noticed in the field you are trying to break into.  You don’t need to include every job  you’ve ever had in your life. 
 
 You should also highlight the skills that will clearly illustrate the ability to contribute to the success of the company.  Companies are looking for candidates who can communicate well, drive for results, are enthusiastic and work well with others. 
+
 If you are 0-5 years out of college, keep your resume to 1 page. If you have 5-10 years of experience, 2 pages is okay. If you have beyond 10 years of experience, try to focus on the 10 most recent years of your career, unless something earlier than that is relevant. In this case, 2 pages is also okay.  
 
 ## Provide Enough Detail 
@@ -59,28 +60,29 @@ When you think about your responsibilities in past jobs, don’t just think abou
 
 ## Education 
 
-You should include 
+You should include: 
 
-* College or University, along with the city and state of the school
+* College or University, along with the city and state of the school.
 
-* Any degree obtained and major
+* Any degree obtained and major.
 
 * If you did some college coursework but didn’t finish your degree, below is one way to report this:
   - “Coursework completed toward a BA in Neuroscience”
   
-* Add in your GPA if you are within 10 years of graduation and it’s over a 3.3
+* Add in your GPA if you are within 10 years of graduation and it’s over a 3.3.
 
 * If you graduated Magna or Summa Cum Laude, include that but don’t list more than 3 additional awards. 
 
 * Graduation year should come off your resume when you get to be 10+ years out of college. 
 
-* There is no need to include your high school or associate’s degree information if you have a BA
+* There is no need to include your high school or associate’s degree information if you have a BA.
 
 * If you did not attend any college or other online post-secondary training or vocational programs, do not leave your education field blank. Include your high school (even if you obtained a GED) and Flatiron School. Employers always want to see some form of education.
 
 ## Additional Things to Think About When Writing Your Resume 
 
 * Some people will be focused on your previous employers since they may previously have had success hiring from one of them.  
+
 * Other people will want to confirm there aren’t any employment gaps.  
 
 * Titles may serve to ensure you can make the leap to the job that is open. 
