@@ -20,7 +20,7 @@ For each specific company, you should include:
 
 - When outlining your responsibilities and achievements, consistency in formatting, tenses and appropriate grammar are important.  All resumes should be in 3rd person.  No “I”, “me”, “my” or your name.
 
-- Be careful not to repeat words too often.  For example, it’s very common to see “managed” throughout a resume.  There are a number of synonyms that could be used instead: “Oversaw” “Led” “Executed” or “Ran”.
+- Be careful not to repeat words too often.  For example, it’s very common to see “managed” throughout a resume.  There are a number of synonyms that could be used instead: “Oversaw” “Led” “Executed” or “Ran”. Wherever possible your bullets should be result/impact/benefit oriented. Instead of just listing a task, consider what did the task result in What good or benefit did it drive?
 
 - Spell Check! Spell Check! Spell Check! And then have someone else take a look at it to spell check it again. 
 
@@ -94,6 +94,6 @@ You should include:
 
 Now is the time to start putting the pieces together. Remember the [resume template](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p) you made a copy of earlier? Take a stab at your first draft. Complete the technical, work, and education experience sections to the best of your ability.
 
-In a future meeting with your coach, you will spend time reviewing your resume line-by-line to ensure it represents you in the best possible light and demonstrates the value you've added to your past experiences. You'll be assigned a coach once you're through ~75% of the full stack web track. If you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to the technical curriculum.
+If you have a premium account, in a future meeting with your coach, you will spend time reviewing your resume line-by-line to ensure it represents you in the best possible light and demonstrates the value you've added to your past experiences. You'll be assigned a coach once you're through ~75% of the full stack web track. If you have a premium account and don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to the technical curriculum.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Work and Education Experience</a> on Learn.co and start learning to code for free.</p>
