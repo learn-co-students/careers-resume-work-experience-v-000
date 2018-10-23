@@ -94,3 +94,4 @@ Now is the time to start putting the pieces together. Remember the [resume templ
 If you will be working with a Career Coach, you will spend time reviewing your resume line-by-line to ensure it represents you in the best possible light and demonstrates the value you've added to your past experiences. You'll be assigned a coach once you're through ~75% of the curriculm. If you don't have a coach yet, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to the technical curriculum.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-work-experience'>Work and Education Experience</a> on Learn.co and start learning to code for free.</p>
+
