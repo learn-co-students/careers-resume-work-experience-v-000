@@ -22,7 +22,7 @@ For each specific company, you should include:
 
 - When outlining your responsibilities and achievements, consistency in formatting, tenses and appropriate grammar are important. All resumes should be in 3rd person. No “I”, “me”, “my” or your name.
 
-- Be careful not to repeat words too often. For example, it’s very common to see “managed” throughout a resume. There are a number of synonyms that could be used instead: “Oversaw” “Led” “Executed” or “Ran”. Wherever possible your bullets should be result/impact/benefit oriented. Instead of just listing a task, consider what did the task result in What good or benefit did it drive?
+- Be careful not to repeat words too often. For example, it’s very common to see “managed” throughout a resume. There are a number of synonyms that could be used instead: “Oversaw” “Led” “Executed” or “Ran”. Wherever possible your bullets should be result/impact/benefit oriented. Instead of just listing a task, consider this: What did the task result in? What good or benefit did it drive?
 
 - Spell Check! Spell Check! Spell Check! And then have someone else take a look at it to spell check it again.
  
