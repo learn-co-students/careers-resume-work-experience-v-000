@@ -13,10 +13,16 @@ For each specific company, you should include:
 * Location of Company (City,State)
 * Dates of Employment
 * Title(s)
-* Responsibilities
-  - Results and achievements
-  - Metrics or numbers
-  - Transferable skills
+
+**Work Experience Bullets**
+
+Similar to the bullets in your Technical Projects section, your Work Experience bullets should follow this content format:
+
+  - Strong bullet = Action verb + task +  result 
+    - **Action Verb** = Past/Present Tense 
+    - **Task** = What did you do? Is it quantifiable? Keep in mind, however, that this is not the central focus of your bullet point.
+    - **Result** = Go beyond telling what you did and describe how and why you did it? What did you accomplish? What was the result or outcome of your work? What was the impact/purpose?
+
 
 **IMPORTANT NOTE:** Every resume bullet should start with an [action verb](http://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/). If it’s a position in the past, that verb needs to be in the SIMPLE PAST TENSE. If you’re still employed at that company, verbs should be in the SIMPLE PRESENT TENSE.  
 
@@ -86,9 +92,15 @@ You should include:
 - There is no need to include your high school or associate’s degree information if you have a Bachelor’s degree.
 - If you did not attend any college or other online post-secondary training or vocational programs, do not leave your education field blank. Include your high school (even if you obtained a GED) and Flatiron School. Employers always want to see some form of education.
 
+**APPLYING ONLINE?**
+
+Make sure to optimize your resume for the Applicant Tracking System (ATS). Applicant tracking systems (ATS) are a type of software that companies use to organize applicants. Most hiring companies, including 99 percent of Fortune 500 companies, use applicant tracking systems (ATS) to collect, filter, and search for job applicants. Just like a search engine, after a recruiter's search, some applicant tracking systems rank applicants by keywords (skills, job positions) and filters (i.e. location and education). So, as an applicant, you should optimize your resume specifically to fit the job you are applying for. To make your resume ATS friendly review this [document](https://docs.google.com/document/d/1r7fSSJOFFiGy9FdatgILCAV5QQogwtdOS91kfORZxwA/edit#).
+
 
 ## Next Steps
 
 Now is the time to start putting the pieces together. Remember the resume template you made a copy of earlier? Take a stab at your first draft. Complete the technical, work, and education experience sections to the best of your ability.
 
-If you will be working with a Career Coach, you will spend time reviewing your resume line-by-line to ensure it represents you in the best possible light and demonstrates the value you've added to your past experiences. You'll be assigned a coach once you're through ~75% of the curriculm. If you don't have a coach yet, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to the technical curriculum.
+Use this [checklist](https://docs.google.com/document/d/1rdNSFcvHfPkQJgcVivVVXAjskMtouTDx0Jw_ky75mPc/edit?pli=1) to ensure you’re on track.
+
+If you will be working with a Career Coach, make sure to connect with them, as you will spend time reviewing your resume line-by-line so it represents you in the best possible light and demonstrates the value you've added to your past experiences.
